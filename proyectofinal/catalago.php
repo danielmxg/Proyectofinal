@@ -42,19 +42,19 @@
           </a>
         </div>
         <div class="u-custom-menu u-nav-container">
-          <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="index.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;>INICIO</font>&quot;,&quot;href&quot;:&quot;index.php&quot;}"><font style="vertical-align: inherit;">INICIO</font>
+          <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="index" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;><font style=\&quot;vertical-align: inherit;\&quot;>INICIO</font>&quot;,&quot;href&quot;:&quot;http://3.85.233.29:8003/index.php&quot;}"><font style="vertical-align: inherit;">INICIO</font>
 
 </a>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="catalago.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CATALOGO</font>&quot;,&quot;href&quot;:&quot;catalago.php&quot;}"><font style="vertical-align: inherit;">CATALOGO</font>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="http://3.85.233.29:8003/catalago.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CATALOGO</font>&quot;,&quot;href&quot;:&quot;http://3.85.233.29:8003/catalago.php&quot;}"><font style="vertical-align: inherit;">CATALOGO</font>
 
 </font>
 </a>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="conocenos.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="http://3.85.233.29:8003/conocenos.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;
 <font style=\&quot;vertical-align: inherit;\&quot;>CONOCENOS</font>
-</font>&quot;,&quot;href&quot;:&quot;conocenos.php&quot;}"><font style="vertical-align: inherit;">CONOCENOS</font>
+</font>&quot;,&quot;href&quot;:&quot;http://3.85.233.29:8003/conocenos.php&quot;}"><font style="vertical-align: inherit;">CONOCENOS</font>
 
 </a>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="contactanos.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CONTACTANOS</font>&quot;,&quot;href&quot;:&quot;contactanos.php&quot;}"><font style="vertical-align: inherit;">CONTACTANOS</font>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="http://3.85.233.29:8003/contactanos.php" style="padding: 10px 0px;" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CONTACTANOS</font>&quot;,&quot;href&quot;:&quot;http://3.85.233.29:8003/contactanos.php&quot;}"><font style="vertical-align: inherit;">CONTACTANOS</font>
 
 </a>
 </li></ul>
@@ -63,10 +63,10 @@
           <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
             <div class="u-inner-container-layout u-sidenav-overflow">
               <div class="u-menu-close"></div>
-              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>INICIO</font>&quot;,&quot;href&quot;:&quot;index.php&quot;}"><font style="vertical-align: inherit;">INICIO</font>
+              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://3.85.233.29:8003/index.php" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>INICIO</font>&quot;,&quot;href&quot;:&quot;http://3.85.233.29:8003/index.php&quot;}"><font style="vertical-align: inherit;">INICIO</font>
 
 </a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="catalago.php" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CATALOGO</font>&quot;,&quot;href&quot;:&quot;catalago.php&quot;}"><font style="vertical-align: inherit;">CATALOGO</font>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://3.85.233.29:8003/catalago.php" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CATALOGO</font>&quot;,&quot;href&quot;:&quot;http://3.85.233.29:8003/catalago.php&quot;}"><font style="vertical-align: inherit;">CATALOGO</font>
 
 </a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="conocenos.php" data-lang-en="{&quot;content&quot;:&quot;<font style=\&quot;vertical-align: inherit;\&quot;>CONOCENOS</font>&quot;,&quot;href&quot;:&quot;conocenos.php&quot;}"><font style="vertical-align: inherit;">CONOCENOS</font>
@@ -102,7 +102,7 @@
                 <font style="vertical-align: inherit;">Lugar: Chiapas</font>
               </font>
             </p>
-            <a href="catalago.php#sec-d6d7" class="u-active-white u-border-2 u-border-white u-btn u-btn-round u-button-style u-hover-white u-none u-radius-50 u-text-active-black u-text-hover-black u-btn-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500" data-lang-en="{&quot;content&quot;:&quot;View Menu&quot;,&quot;href&quot;:&quot;https://nicepage.one&quot;}">
+            <a href="http://3.85.233.29:8003/catalago.php#sec-d6d7" class="u-active-white u-border-2 u-border-white u-btn u-btn-round u-button-style u-hover-white u-none u-radius-50 u-text-active-black u-text-hover-black u-btn-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500" data-lang-en="{&quot;content&quot;:&quot;View Menu&quot;,&quot;href&quot;:&quot;https://nicepage.one&quot;}">
              
                 
                                 <font style="vertical-align: inherit;">Ver menú</font>

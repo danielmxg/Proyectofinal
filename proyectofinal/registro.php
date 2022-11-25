@@ -22,7 +22,7 @@
       <input class="controls" type="password" name="password" id="correo" placeholder="Ingrese su Contraseña" required>
       <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>     
           <button class="botons" type="submit">Registrarse</button>
-          <p><a href="login.php">¿Ya tengo Cuenta?</a></p>
+          <p><a href="http://3.85.233.29:8003/login.php">¿Ya tengo Cuenta?</a></p>
       </form>
   </section>
 
